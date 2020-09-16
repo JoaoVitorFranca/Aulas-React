@@ -9,7 +9,7 @@ export default class App extends Component {
 
     render(){
         return (
-            <div class="container"> {/* class="cotainer" é uma classe bootstrap */}
+            <div className="container"> {/* class="cotainer" é uma classe bootstrap */}
                 <Menu/>
                 <Routes/> {/* estamos criando uma Simple Page Application - SPA */}
             </div>
