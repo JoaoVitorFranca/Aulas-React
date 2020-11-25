@@ -6,3 +6,7 @@ require('./config/database')
 // carrega configuração da rota
 require('./config/router')(server)
 
+
+
+
+
